@@ -1,0 +1,5 @@
+commit d9373fee104d6864e78ffd4901032ee3141b86ec
+Author: dacaiguoguo <dacaiguoguo@163.com>
+Date:   Fri Dec 7 16:38:45 2012 +0800
+
+    修正main 函数
